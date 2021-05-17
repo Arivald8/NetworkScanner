@@ -25,9 +25,13 @@ Resolves Domain names to IP addresses
 ### Arguments:
 
 -network_ip = Specify network segment [Example: 192.168.56]
+
 -target_octet = Specify target octet [Example: 56]
+
 -domain_name = Specify domain name [Example: www.google.com]
 
 -ping = Ping a host or a range of hosts
+
 -port_scan = Scan ports on a target machine
+
 -resolve_ip Resolve ip address to a domain name
